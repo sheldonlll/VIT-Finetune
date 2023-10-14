@@ -21,5 +21,6 @@ python ./txt_annotation.py
 
 python ./eval_top1.py 
 
-python ./eval_finetune_vit.py 
+python ./eval_finetune_vit.py  /? python ./eval_top1_vit.py 
+
 
