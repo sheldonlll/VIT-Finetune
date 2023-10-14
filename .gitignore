@@ -1,0 +1,6 @@
+datasets/*
+model_data/densenet121
+model_data/vit-base-patch16-224-in21k
+model_data/vit-base-patch16-224-in21k-finetune
+model_data/vit-large-patch16-224
+model_data/densenet121-a639ec97.pth
