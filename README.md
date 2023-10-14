@@ -11,9 +11,15 @@
     # prepend your git clone with the following env var:
     GIT_LFS_SKIP_SMUDGE=1
 
-pip install -r requirements
-python ./train.py
-python ./finetune_vit.py
-python ./txt_annotation.py
-python ./eval_top1.py
-python ./eval_finetune_vit.py
+pip install -r requirements 
+
+python ./train.py 
+
+python ./finetune_vit.py 
+
+python ./txt_annotation.py 
+
+python ./eval_top1.py 
+
+python ./eval_finetune_vit.py 
+
